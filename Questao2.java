@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class questao2 {
+public class Questao2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int vetor[] = new int[10];

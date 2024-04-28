@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testeLogin {
+public class TesteLogin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String usuario;

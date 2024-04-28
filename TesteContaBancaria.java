@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testeContaBancaria {
+public class TesteContaBancaria {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ContaBancaria contaBancaria = new ContaBancaria(1000);
